@@ -1,4 +1,4 @@
-package com.example.speak.presentation
+package com.example.speak
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
