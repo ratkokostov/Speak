@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1019924478196",
+    "project_id": "speak-ef59c",
+    "storage_bucket": "speak-ef59c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019924478196:android:f60bcb6f945172e29b46a1",
+        "android_client_info": {
+          "package_name": "com.example.speak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019924478196-basuqdv2p9h85k7tsr7jia0sderdaq34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbFKxsNRvloSV8WNhcb-cCi1l4qP4fboQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019924478196-basuqdv2p9h85k7tsr7jia0sderdaq34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
